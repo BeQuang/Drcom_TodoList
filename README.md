@@ -32,6 +32,8 @@ npm start
 
 ## Application Overview
 
+![Todo List Screenshot](./TodoList.jpg)
+
 ### Features:
 
 - **Add Task**: Enter a task in the "Add task" input field and click the "+" button to add a new task to the list.
