@@ -11,7 +11,7 @@ This is a simple todo list app built with React. The app allows you to add, mark
 Download the zip file or clone the repository from GitHub using the following command:
 
 ```bash
-git clone [your-repo-url]
+git clone https://github.com/BeQuang/Drcom_TodoList.git
 ```
 
 ### Step 2:
